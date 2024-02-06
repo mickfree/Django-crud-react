@@ -1,0 +1,12 @@
+# Ignore Python cache directory
+__pycache__
+# Environments
+venv/
+
+client/*
+!client/src
+#DB
+db.sqlite3
+
+
+
